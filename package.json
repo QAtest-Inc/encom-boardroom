@@ -20,7 +20,7 @@
     "ronin-mocks": "^0.1.6",
     "ronin-server": "^0.1.3",
     "serve-favicon": "~2.0.0",
-    "three": "~0.125.0",
+    "three": "~0.137.0",
     "wikipedia-stream": "*"
   },
   "devDependencies": {
